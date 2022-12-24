@@ -24,7 +24,7 @@ I'm a First Year Engineering student at UBC, who has an interest for virtual rea
 <details>
   <summary>:file_cabinet: Past Projects</summary>
   
-  ### :mirror: Magic Mirror
+  ### ✨ Magic Mirror
   This is a project I completed in highschool for a class, where I built a smart mirror using recycled parts, such as an old monitor, spare lumber. Every part was already on hand, except for the sheet of mirror glass. The smart mirror uses [Magic Mirror 2](https://github.com/MichMich/MagicMirror), an open-source program which allows you to create and configure your own, or other peoples modules. The mirror is able to display reminders, spotify, the news, compliments, weather, and can be voice controlled using a voice assistant (Google Home, Amazon Alexa) to add reminders.
   
   ### ☁️ Self-Hosting Nextcloud Cloud
