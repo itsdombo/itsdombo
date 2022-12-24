@@ -24,9 +24,11 @@ I'm a First Year Engineering student at UBC, who has an interest for virtual rea
 <details>
   <summary>:file_cabinet: Past Projects</summary>
   
-  ---
+  ### :mirror: Magic Mirror
+  This is a project I completed in highschool for a class, where I built a smart mirror using recycled parts, such as an old monitor, spare lumber. Every part was already on hand, except for the sheet of mirror glass. The smart mirror uses [Magic Mirror 2](https://github.com/MichMich/MagicMirror), an open-source program which allows you to create and configure your own, or other peoples modules. The mirror is able to display reminders, spotify, the news, compliments, weather, and can be voice controlled using a voice assistant (Google Home, Amazon Alexa) to add reminders.
   
-  ### Work in Progress
+  ### ☁️ Self-Hosting Nextcloud Cloud
+  Not wanting to pay money for cloud storage, I looked into self-hosting my own cloud, not only to save money, but as an opportunity to learn. Running on an old computer repurposed as a server PC operating on Ubuntu Linux, the computer runs [Nextcloud](https://github.com/nextcloud), a free and open source cloud software.
   
   ---
   
@@ -34,8 +36,6 @@ I'm a First Year Engineering student at UBC, who has an interest for virtual rea
 
 <details open>
   <summary>:open_file_folder: Current Projects</summary
-  
-  ---
   
   ### Work in Progress
   
