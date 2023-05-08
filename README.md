@@ -33,6 +33,12 @@ I'm a First Year Engineering student at UBC, who has an interest for virtual rea
   ### ☁️ Self-Hosting Nextcloud Cloud
   Not wanting to pay money for cloud storage, I looked into self-hosting my own cloud, not only to save money, but as an opportunity to learn. Running on an old computer repurposed as a server PC operating on Ubuntu Linux, the computer runs [Nextcloud](https://github.com/nextcloud), a free and open source cloud software.
   
+  ### 💻 [Mini Code Projects](https://github.com/itsdombo/MiniCodeProjects)
+  This repository serves as a little pastebin for me to organize and display any finished code projects I have done. The scope of these projects are usually quite mini, as the repository's name says. The purpose for doing this is to get familiar with any language that I am trying to learn by creating practical projects to gain a better understanding of the language.
+  
+  ### 🦞 Clawdius | UBC APSC 101
+  (WIP)
+  
   ---
   
 </details>
@@ -42,10 +48,7 @@ I'm a First Year Engineering student at UBC, who has an interest for virtual rea
   
   ### 🍺 [UBC BIoT Instrumentation](https://www.ubcenvision.com/beer/)
   I work on the instrumentation team for UBC BIoT (Brewing Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/frehlid/BIOT-Instrumentation/).
-  
-  ### 💻 [Mini Code Projects](https://github.com/itsdombo/MiniCodeProjects)
-  This repository serves as a little pastebin for me to organize and display any finished code projects I have done. The scope of these projects are usually quite mini, as the repository's name says. The purpose for doing this is to get familiar with any language that I am trying to learn by creating practical projects to gain a better understanding of the language.
-  
+
   ---
   
 </details>
