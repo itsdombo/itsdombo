@@ -11,7 +11,7 @@ I'm a First Year Engineering student at UBC, who has an interest for virtual rea
 
 <div id="badges" align="center">
   <a href="https://dombo.me">
-    <img src="https://img.shields.io/badge/Website-24242c?logo=github&logoColor=white&style=for-the-badge" alt="Website Badge">
+    <img src="https://img.shields.io/badge/Website-24242c?logo=firefox&logoColor=white&style=for-the-badge" alt="Website Badge">
   </a>
   <a href="https://www.linkedin.com/in/rousseaudominic/">
     <img src="https://img.shields.io/badge/LinkedIn-24242c?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge">
@@ -54,6 +54,9 @@ I'm a First Year Engineering student at UBC, who has an interest for virtual rea
   
   ### 🐔 [Cluck Guard](https://github.com/itsdombo/CluckGuard)
   My latest project, Cluck Guard, is a low-cost, low maintenance, and open-source alternative to other chicken doors on the market. Utilizing a pulley system, the door is lifted with a servo that rotates a pulley 360 degrees. The project is still not finish so be sure to check it out [here](https://github.com/itsdombo/CluckGuard)!
+
+  ### 💻 [dombo.me](https://dombo.me)
+  My website, where I post my socials and projects. This is my first experience building a website. So far, it only uses HTML and CSS. Embracing the elegance of minimalism, I have deliberately created a minimalist design, paying homage to my appreciation for the beauty of simplicity in webpages.
   
   ---
   
