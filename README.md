@@ -61,7 +61,8 @@ I'm a First Year Engineering student at UBC, who has an interest for virtual rea
   ---
   
 </details>
-  
+
+*For any inquiries about my projects or if you want to reach out and collaborate, please [email me](mailto:dominic1rousseau@gmail.com).*
 
   
 
