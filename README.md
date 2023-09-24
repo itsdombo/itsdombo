@@ -50,7 +50,7 @@ I'm a First Year Engineering student at UBC, who has an interest for virtual rea
   <summary>:open_file_folder: Current Projects</summary>
   
   ### 🍺 [UBC BIoT Instrumentation](https://www.ubcenvision.com/beer/)
-  I work on the instrumentation team for UBC BIoT (Brewing Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/frehlid/BIOT-Instrumentation/). Also [here](https://github.com/UBC-Brewing-Internet-of-Things)
+  I work on the instrumentation team for UBC BIoT (Brewing Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/UBC-Brewing-Internet-of-Things).
   
   ### 🐔 [Cluck Guard](https://github.com/itsdombo/CluckGuard)
   My latest project, Cluck Guard, is a low-cost, low maintenance, and open-source alternative to other chicken doors on the market. Utilizing a pulley system, the door is lifted with a servo that rotates a pulley 360 degrees. The project is still not finish so be sure to check it out [here](https://github.com/itsdombo/CluckGuard)!
