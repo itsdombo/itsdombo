@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi! I'm Dominic!</h1>
 
-I'm a First Year Engineering student at UBC, who has an interest for virtual reality, computer systems, and any cool tech. When I'm not busy in school, I like to [3D model](https://www.artstation.com/dombo), and read up about what's happening in the world of tech.
+I'm a Second Year Process Engineering Student @ UBC. Interested in virtual reality, computer systems, and any cool tech. When I'm not busy in school, I like to [3D model](https://www.artstation.com/dombo), and read up about what's happening in the world of tech.
 
 <div id="badges" align="center">
   <a href="https://dombo.me">
