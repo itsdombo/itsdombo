@@ -2,7 +2,7 @@
 <!-- Intro -->
 
 <p id="profile-picture" align="center">
-  <img width=40% src="https://github.com/itsdombo/itsdombo/blob/main/headshot1.png" alt="Profile Picture">
+  <img width=40% src="https://github.com/itsdombo/itsdombo/blob/main/headshot.png" alt="Profile Picture">
 </p>
 
 <h1 align="center">Hi! I'm Dominic!</h1>
