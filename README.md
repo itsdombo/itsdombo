@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi! I'm Dominic!</h1>
 
-I'm a Second Year Chemical and Biological Engineering Student @ UBC. Interested in virtual reality, computer systems, and any emergin technologies. When I'm not busy in school, I like to [3D model](https://www.artstation.com/dombo), go biking, and read up about any new innovations.
+I'm a Second Year Computer Engineering Student @ UBC. Interested in virtual reality, computer systems, and any emerging technologies. When I'm not busy in school, I like to [3D model](https://www.artstation.com/dombo), go biking, and read up about any new innovations.
 
 <div id="badges" align="center">
   <a href="https://dombo.me">
@@ -31,13 +31,13 @@ I'm a Second Year Chemical and Biological Engineering Student @ UBC. Interested 
   <summary>:file_cabinet: Past Projects</summary>
   
   ### ✨ Magic Mirror
-  This is a project I completed in highschool for a class, where I built a smart mirror using recycled parts, such as an old monitor, spare lumber. Every part was already on hand, except for the sheet of mirror glass. The smart mirror uses [Magic Mirror 2](https://github.com/MichMich/MagicMirror), an open-source program which allows you to create and configure your own, or other peoples modules. The mirror is able to display reminders, spotify, the news, compliments, weather, and can be voice controlled using a voice assistant (Google Home, Amazon Alexa) to add reminders. The mirror can be connected to from another computer using [DWService](https://github.com/dwservice/agent).
+  This is a project I completed in high school for a class, where I built a smart mirror using recycled parts, such as an old monitor, and spare lumber. Every part was already on hand, except for the sheet of mirror glass. The smart mirror uses [Magic Mirror 2](https://github.com/MichMich/MagicMirror), an open-source program which allows you to create and configure your own, or other people's modules. The mirror is able to display reminders, Spotify, the news, compliments, and weather. It can be voice-controlled using a voice assistant (Google Home, Amazon Alexa) to add reminders. The mirror can be connected to another computer using [DWService](https://github.com/dwservice/agent).
   
   ### ☁️ Self-Hosting Nextcloud Cloud
-  Not wanting to pay money for cloud storage, I looked into self-hosting my own cloud, not only to save money, but as an opportunity to learn. Running on an old computer repurposed as a server PC operating on Ubuntu Linux, the computer runs [Nextcloud](https://github.com/nextcloud), a free and open source cloud software.
+  Not wanting to pay money for cloud storage, I looked into self-hosting my own cloud, not only to save money but as an opportunity to learn. Running on an old computer repurposed as a server PC operating on Ubuntu Linux, the computer runs [Nextcloud](https://github.com/nextcloud), a free and open-source cloud software.
   
   ### 💻 [Mini Code Projects](https://github.com/itsdombo/MiniCodeProjects)
-  This repository serves as a little pastebin for me to organize and display any finished code projects I have done. The scope of these projects are usually quite mini, as the repository's name says. The purpose for doing this is to get familiar with any language that I am trying to learn by creating practical projects to gain a better understanding of the language.
+  This repository serves as a pastebin for me to organize and display any finished code projects I have done. These projects' scope is usually quite small, as the repository's name says. The purpose of doing this is to get familiar with any language that I am trying to learn by creating practical projects to gain a better understanding of the language.
   
   ### 🦞 Clawdius | UBC APSC 101
   (WIP)
@@ -53,7 +53,7 @@ I'm a Second Year Chemical and Biological Engineering Student @ UBC. Interested 
   I work on the instrumentation team for UBC BIoT (Brewing Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/UBC-Brewing-Internet-of-Things).
   
   ### 🐔 [Cluck Guard](https://github.com/itsdombo/CluckGuard)
-  My latest project, Cluck Guard, is a low-cost, low maintenance, and open-source alternative to other chicken doors on the market. Utilizing a pulley system, the door is lifted with a servo that rotates a pulley 360 degrees. The project is still not finish so be sure to check it out [here](https://github.com/itsdombo/CluckGuard)!
+  My latest project, Cluck Guard, is a low-cost, low-maintenance, and open-source alternative to other chicken doors on the market. Utilizing a pulley system, the door is lifted with a servo that rotates a pulley 360 degrees. The project is still not finish so be sure to check it out [here](https://github.com/itsdombo/CluckGuard)!
 
   ### 💻 [dombo.me](https://dombo.me)
   My website, where I post my socials and projects. This is my first experience building a website. So far, it only uses HTML and CSS. Embracing the elegance of minimalism, I have deliberately created a minimalist design, paying homage to my appreciation for the beauty of simplicity in webpages.
