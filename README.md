@@ -40,7 +40,10 @@ I'm a Second Year Computer Engineering Student @ UBC. Interested in virtual real
   This repository serves as a pastebin for me to organize and display any finished code projects I have done. These projects' scope is usually quite small, as the repository's name says. The purpose of doing this is to get familiar with any language that I am trying to learn by creating practical projects to gain a better understanding of the language.
   
   ### 🦞 Clawdius | UBC APSC 101
-  (WIP)
+  A project that my group and I completed in first year, where we were tasked to create an autonomous claw. The design used a sonar sensor to detect when an object was in the claw's reach and picked it up.
+
+  ### 🐔 [Cluck Guard](https://github.com/itsdombo/CluckGuard)
+  A summer project of mine, Cluck Guard, is a low-cost, low-maintenance, and open-source alternative to other chicken doors on the market. Utilizing a pulley system, the door is lifted with a servo that rotates a pulley 360 degrees. The project has been sunsetted, but the code and demonstration can be viewed [here](https://github.com/itsdombo/CluckGuard)!
   
   ---
   
@@ -50,13 +53,13 @@ I'm a Second Year Computer Engineering Student @ UBC. Interested in virtual real
   <summary>:open_file_folder: Current Projects</summary>
   
   ### 🍺 [UBC BIoT Instrumentation](https://www.ubcenvision.com/beer/)
-  I'm the team captain (formerly instrumentation lead) for UBC BIoT (Brewing Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/UBC-Brewing-Internet-of-Things).
-  
-  ### 🐔 [Cluck Guard](https://github.com/itsdombo/CluckGuard)
-  My latest project, Cluck Guard, is a low-cost, low-maintenance, and open-source alternative to other chicken doors on the market. Utilizing a pulley system, the door is lifted with a servo that rotates a pulley 360 degrees. The project is still not finish so be sure to check it out [here](https://github.com/itsdombo/CluckGuard)!
+  I'm the team captain (formerly instrumentation lead) for UBC BIoT (Brewing Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/UBC-Brewing-Internet-of-Things).  
 
   ### 💻 [dombo.me](https://dombo.me)
   My website, where I post my socials and projects. This is my first experience building a website. So far, it only uses HTML and CSS. Embracing the elegance of minimalism, I have deliberately created a minimalist design, paying homage to my appreciation for the beauty of simplicity in webpages.
+
+  ### 🥗 [Virtual Fridge](https://github.com/itsdombo/VirtualFridge)
+  A food management app that scans grocery receipts or barcodes, tracks expiry dates and sends reminders about soon-to-expire items. It also suggests recipes based on the ingredients in your fridge to help reduce food waste and save money, while making the user feel good about it with insights on how their efforts are saving them money and reducing emissions.
   
   ---
   
