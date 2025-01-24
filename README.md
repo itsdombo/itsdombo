@@ -58,7 +58,7 @@ I'm a Second Year Computer Engineering Student @ UBC. Interested in virtual real
   ### 💻 [dombo.me](https://dombo.me)
   My website, where I post my socials and projects. This is my first experience building a website. So far, it only uses HTML and CSS. Embracing the elegance of minimalism, I have deliberately created a minimalist design, paying homage to my appreciation for the beauty of simplicity in webpages.
 
-  ### 🥗 [Virtual Fridge](https://github.com/itsdombo/VirtualFridge)
+  ### 🥗 Virtual Fridge (Code available upon request)
   A food management app that scans grocery receipts or barcodes, tracks expiry dates and sends reminders about soon-to-expire items. It also suggests recipes based on the ingredients in your fridge to help reduce food waste and save money, while making the user feel good about it with insights on how their efforts are saving them money and reducing emissions.
   
   ---
