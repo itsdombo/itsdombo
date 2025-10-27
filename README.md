@@ -52,7 +52,7 @@ I'm a Second Year Computer Engineering Student @ UBC. Interested in virtual real
 <details open>
   <summary>:open_file_folder: Current Projects</summary>
   
-  ### 🍺 [UBC BIoT Instrumentation](https://www.ubcenvision.com/beer/)
+  ### 🍺 [UBC BIoT Instrumentation](https://ubcbiot.com/)
   I'm the team captain (formerly instrumentation lead) for UBC BIoT (Brewing Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/UBC-Brewing-Internet-of-Things).  
 
   ### 💻 [dombo.me](https://dombo.me)
