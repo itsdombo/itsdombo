@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi! I'm Dominic!</h1>
 
-I'm a Second Year Computer Engineering Student @ UBC. Interested in virtual reality, computer systems, and any emerging technologies. When I'm not busy in school, I like to [3D model](https://www.artstation.com/dombo), go biking, and read up about any new innovations.
+I'm a Third Year Computer Engineering Student @ UBC. Interested in virtual reality, computer systems, and any emerging technologies. When I'm not busy in school, I like to play hockey, go biking, and read up about any new innovations.
 
 <div id="badges" align="center">
   <a href="https://dombo.me">
@@ -42,8 +42,14 @@ I'm a Second Year Computer Engineering Student @ UBC. Interested in virtual real
   ### 🦞 Clawdius | UBC APSC 101
   A project that my group and I completed in first year, where we were tasked to create an autonomous claw. The design used a sonar sensor to detect when an object was in the claw's reach and picked it up.
 
+  ### 💻 [dombo.me](https://dombo.me)
+  My website, where I post my socials and projects. This is my first experience building a website. So far, it only uses HTML and CSS. Embracing the elegance of minimalism, I have deliberately created a minimalist design, paying homage to my appreciation for the beauty of simplicity in webpages.
+
   ### 🐔 [Cluck Guard](https://github.com/itsdombo/CluckGuard)
   A summer project of mine, Cluck Guard, is a low-cost, low-maintenance, and open-source alternative to other chicken doors on the market. Utilizing a pulley system, the door is lifted with a servo that rotates a pulley 360 degrees. The project has been sunsetted, but the code and demonstration can be viewed [here](https://github.com/itsdombo/CluckGuard)!
+
+  ### 🥗 Virtual Fridge (Code available upon request)
+  A food management app that scans grocery receipts or barcodes, tracks expiry dates and sends reminders about soon-to-expire items. It also suggests recipes based on the ingredients in your fridge to help reduce food waste and save money, while making the user feel good about it with insights on how their efforts are saving them money and reducing emissions.
   
   ---
   
@@ -53,13 +59,13 @@ I'm a Second Year Computer Engineering Student @ UBC. Interested in virtual real
   <summary>:open_file_folder: Current Projects</summary>
   
   ### 🍺 [UBC BIoT Instrumentation](https://ubcbiot.com/)
-  I'm the team captain (formerly instrumentation lead) for UBC BIoT (Brewing Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/UBC-Brewing-Internet-of-Things).  
+  I'm the team captain (formerly instrumentation lead) for UBC BIoT (Biological Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/UBC-Brewing-Internet-of-Things).  
 
-  ### 💻 [dombo.me](https://dombo.me)
-  My website, where I post my socials and projects. This is my first experience building a website. So far, it only uses HTML and CSS. Embracing the elegance of minimalism, I have deliberately created a minimalist design, paying homage to my appreciation for the beauty of simplicity in webpages.
+  ### ⛷ Backend & API Developer | [SteepDeep.ski](https://steepdeep.ski/)
+  Migrated the backend database for Firestore to Firebase Dataconnect, reworking the database to perform relationally using GraphQL.
 
-  ### 🥗 Virtual Fridge (Code available upon request)
-  A food management app that scans grocery receipts or barcodes, tracks expiry dates and sends reminders about soon-to-expire items. It also suggests recipes based on the ingredients in your fridge to help reduce food waste and save money, while making the user feel good about it with insights on how their efforts are saving them money and reducing emissions.
+  ### 🏎 Autonomous Self-Parking Car | UBC CPEN 391 (Code available upon request)
+  The third year project course, where students learn to implement navigation and safety with LiDAR and an Intel RealSense camera, running on an Nvidia Jetson. Our specific implementation also detects parking signs with machine learning and auto-parallel parks in these spots.
   
   ---
   
