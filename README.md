@@ -50,14 +50,7 @@ I'm a Third Year Computer Engineering Student @ UBC. Interested in virtual reali
 
   ### 🥗 Virtual Fridge (Code available upon request)
   A food management app that scans grocery receipts or barcodes, tracks expiry dates and sends reminders about soon-to-expire items. It also suggests recipes based on the ingredients in your fridge to help reduce food waste and save money, while making the user feel good about it with insights on how their efforts are saving them money and reducing emissions.
-  
-  ---
-  
-</details>
 
-<details open>
-  <summary>:open_file_folder: Current Projects</summary>
-  
   ### 🍺 [UBC BIoT Instrumentation](https://ubcbiot.com/)
   I'm the team captain (formerly instrumentation lead) for UBC BIoT (Biological Internet of Things), where we use process control, thermodynamics, and kinetic modelling to control the desired outcome for fermenting beer. Big breweries are able to use sophisticated equipment, but homebrewers and small teams don’t have access to the same equipment. BIoT’s goal is to design low-cost data monitoring and research innovative techniques to brew high-quality beer. The team’s repository can be viewed [here](https://github.com/UBC-Brewing-Internet-of-Things).  
 
@@ -66,6 +59,19 @@ I'm a Third Year Computer Engineering Student @ UBC. Interested in virtual reali
 
   ### 🏎 Autonomous Self-Parking Car | UBC CPEN 391 (Code available upon request)
   The third year project course, where students learn to implement navigation and safety with LiDAR and an Intel RealSense camera, running on an Nvidia Jetson. Our specific implementation also detects parking signs with machine learning and auto-parallel parks in these spots.
+  
+  ---
+  
+</details>
+
+<details open>
+  <summary>:open_file_folder: Current Projects</summary>
+  
+  ### 💽 Homelab
+  What do you do when you're sick of paying for subscriptions and you have some spare tech lying around? You build a homelab! Currently spinning up self-hosted replacements for the services I'd otherwise be renting: Nextcloud for files, Immich for photo backup, and Wealthfolio for tracking investments locally instead of handing my portfolio data to a third party. More to come as I find new things worth pulling in-house.
+
+  ### AI & Automation Programmer | [Greater Vancouver Food Truck Festival](https://greatervanfoodtruckfest.com) & [Next Gen Concessions](https://nextgenconcessions.com)
+  Running events means a mountain of repetitive back-office work such as vendor emails, document generation, and follow-ups. I built a system to make most of it disappear. I design and maintain n8n workflow automations, fully self-hosted on an AWS Lightsail instance with Docker Compose, PostgreSQL, Caddy, and Gotenberg for on-the-fly PDF generation. The result is a pipeline that handles vendor communication, tracks event status through its lifecycle, and generates paperwork automatically, freeing up the team to focus on the events themselves instead of the busywork.
   
   ---
   
