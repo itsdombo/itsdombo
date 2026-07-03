@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi! I'm Dominic!</h1>
 
-I'm a Third Year Computer Engineering Student @ UBC. Interested in virtual reality, computer systems, and any emerging technologies. When I'm not busy in school, I like to play hockey, go biking, and read up about any new innovations.
+I'm a Fourth Year Computer Engineering Student @ UBC. Interested in virtual reality, computer systems, and any emerging technologies. When I'm not busy in school, I like to play hockey, go biking, and read up about any new innovations.
 
 <div id="badges" align="center">
   <a href="https://dombo.me">
